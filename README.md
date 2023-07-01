@@ -28,7 +28,7 @@ This project was based on <a href="https://www.youtube.com/watch?v=O6P86uwfdR0&t
 ### License
 ---
 
-<p align="center"><img src="images/license-MIT-green.svg"></p>
+<p align="left"><img src="public/images/license-MIT-green.svg"></p>
 <br/>
 
 ### Author
