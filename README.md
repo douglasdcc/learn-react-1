@@ -1,4 +1,4 @@
-<h1 align="center">HTML TAGs with BulmaCSS</h1>
+<h1 align="center">React useState with Pico.css</h1>
 
 <p align="center">
  <a href="#goal">Goal</a> •
