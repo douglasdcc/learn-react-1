@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/douglasdcc/learn-react-1/static/js/main.f7b772d5.js",
-    "index.html": "/douglasdcc/learn-react-1/index.html",
-    "main.f7b772d5.js.map": "/douglasdcc/learn-react-1/static/js/main.f7b772d5.js.map"
+    "main.js": "/static/js/main.f7b772d5.js",
+    "index.html": "/index.html",
+    "main.f7b772d5.js.map": "/static/js/main.f7b772d5.js.map"
   },
   "entrypoints": [
     "static/js/main.f7b772d5.js"
