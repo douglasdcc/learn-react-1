@@ -10,7 +10,7 @@
 ### Goal
 ---
 
-<p align="center">
+<p align="left">
 Studying website developed to learn a bit more about React, specially useEffect and useState.<br/>
 This also serves as a study case for Pico.css and its features.<br/>
 This project was based on <a href="https://www.youtube.com/watch?v=O6P86uwfdR0&t=8s" target="_blank"><strong> this video</strong></a>, from Web Dev Simplified, with some tasks ids changes, a little twist in the functionalities and a new layout.<br/>
@@ -28,7 +28,7 @@ This project was based on <a href="https://www.youtube.com/watch?v=O6P86uwfdR0&t
 ### License
 ---
 
-<p align="left"><img src="public/images/license-MIT-green.svg"></p>
+<p align="center"><img src="public/images/license-MIT-green.svg"></p>
 <br/>
 
 ### Author
