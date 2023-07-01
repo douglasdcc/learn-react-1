@@ -1,0 +1,50 @@
+:root,
+[data-theme="light"],
+:not([data-theme="dark"]){
+    --color-blue: #3F83BA;
+    --primary: #fdd835;
+    --primary-hover: #fdd835;
+}
+
+.header {
+    background-color: var(--color-blue);
+    height: 20rem;
+    width: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    margin-bottom: 4rem;
+}
+
+.not-show {
+    display: none;
+}
+
+a:hover {
+    transform: scale(1.02);
+    transition: 0.4s;
+}
+
+.header-div {
+    z-index: 2;
+    position: relative;
+}
+
+.header-title {
+    color: white;
+}
+
+.fixed-title {
+    position: fixed;
+    top: 10px;
+}
+
+.menu-container {
+    position: fixed;
+    background-color: var(--color-blue);
+}
+
+.btn-container {
+    display: flex;
+    gap: 1rem;
+}
